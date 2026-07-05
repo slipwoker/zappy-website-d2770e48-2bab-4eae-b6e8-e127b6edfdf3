@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://tenta-d2770e48.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

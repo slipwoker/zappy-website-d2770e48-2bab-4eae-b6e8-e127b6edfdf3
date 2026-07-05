@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://tenta-d2770e48.zappy5.app
+https://example.com
 תנת&#39;ה מזמינה אתכם לעולם של סיטונאות ממתקים אמריקאיים איכותיים, גומי, שוקולדים ועוד. כנסו עכשיו למגוון הסיטונאי המתוק והמשתלם ביותר ברשת!
 
 ### אודות
-https://tenta-d2770e48.zappy5.app/about
+https://example.com/about
 מעל 20 שנות ניסיון בייצור וייבוא סיטונאי של ממתקים אמריקאיים אהובים. הכירו את תנת&#39;ה, המותג שמחויב לאיכות ולשביעות רצון בכל נגיסה.
 
 ### איכות
-https://tenta-d2770e48.zappy5.app/quality
+https://example.com/quality
 מחויבות בלתי מתפשרת לאיכות: בדיקות מעבדה מאושרות משרד הבריאות לכל מוצר סיטונאי. גלו איך תנת&#39;ה מבטיחה ממתקים אמריקאיים מושלמים במחירים הטובים ביותר.
 
 ### עולם הממתקים
-https://tenta-d2770e48.zappy5.app/candy-world
+https://example.com/candy-world
 צללו לעולם קסום של סוכריות גומי, שוקולדים, מרשמלו ומסטיקים במחירי סיטונאות חסרי תחרות. תנת&#39;ה מביאה אליכם את המגוון המתוק והמשתלם ביותר אונליין.
 
 ### צור קשר
-https://tenta-d2770e48.zappy5.app/contact
+https://example.com/contact
 מוכנים להזמין סיטונאות ממתקים אמריקאיים במחירים שווים לכל כיס? צרו קשר עם צוות תנת&#39;ה עוד היום וקבלו הצעת מחיר משתלמת במיוחד עבורכם.
 
 ### Products
-https://tenta-d2770e48.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - תנת'ה (Tenta)
 
 ### Product Detail
-https://tenta-d2770e48.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - תנת'ה (Tenta)
 
 ### Category
-https://tenta-d2770e48.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - תנת'ה (Tenta)
 
 ### תודה רבה | תנת'ה
-https://tenta-d2770e48.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם עם המידע על ממתקים אמריקאים בסיטונאות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tenta-d2770e48.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tenta-d2770e48.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tenta-d2770e48.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,8 +81,8 @@ Confectionery & Candy
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://tenta-d2770e48.zappy5.app/sitemap.xml
-- Robots: https://tenta-d2770e48.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://tenta-d2770e48.zappy5.app/llms-full.txt
-- Products (JSON): https://tenta-d2770e48.zappy5.app/products.json
-- Products (Google Merchant RSS): https://tenta-d2770e48.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
